@@ -1,0 +1,47 @@
+@mixin h1 {
+    font-weight: 700;
+    font-size: 69px;
+    line-height: 84px;
+}
+
+@mixin h2 {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+}
+
+@mixin h3 {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 53px;
+}
+
+@mixin h4 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+@mixin h5 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+@mixin body {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+@mixin button {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@mixin caption {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
